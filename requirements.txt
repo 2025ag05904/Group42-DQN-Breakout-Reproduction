@@ -1,9 +1,10 @@
-# Install a PyTorch build appropriate for your operating system and CUDA setup:
+# Install a PyTorch build appropriate for your platform and CUDA version:
 # https://pytorch.org/get-started/locally/
 torch
 gymnasium[atari]
 ale-py
-numpy
+opencv-python
+pyyaml
 pandas
 matplotlib
-pillow
+numpy
