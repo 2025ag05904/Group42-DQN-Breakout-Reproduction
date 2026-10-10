@@ -1,0 +1,30 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyd
+.Python
+.venv/
+venv/
+env/
+ENV/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Editors / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local environment and credentials
+.env
+.env.*
+
+# Model checkpoints can be large; commit only when intentionally needed
+*.pt
+*.pth
+*.ckpt
+
+# Generated temporary files
+*.tmp
