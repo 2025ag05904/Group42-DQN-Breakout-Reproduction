@@ -69,7 +69,7 @@ The script saves a training log, model checkpoint, evaluation CSV, summary CSV, 
 | Aniket Bhutani | Colab training/evaluation pipeline |
 | Rajat Pali | Results analysis and visualization |
 
-See [docs/contributions.md](docs/contributions.md). The table records the stated division of work; it does not, by itself, independently prove authorship. Genuine individual commits and screenshots of each person's work should be added if available.
+See the [algorithm justification](docs/methodology.md), [six-minute video demonstration guide](docs/VIDEO_DEMO_GUIDE.md), and [contribution/evidence mapping](docs/contributions.md). The table records the stated division of work; it does not, by itself, independently prove authorship. Genuine individual commits and screenshots of each person's work should be added if available.
 
 ## Limitations
 
