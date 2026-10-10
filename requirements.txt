@@ -1,0 +1,9 @@
+# Install a PyTorch build appropriate for your operating system and CUDA setup:
+# https://pytorch.org/get-started/locally/
+torch
+gymnasium[atari]
+ale-py
+numpy
+pandas
+matplotlib
+pillow
